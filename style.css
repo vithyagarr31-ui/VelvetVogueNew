@@ -67,7 +67,6 @@ nav a.active {
   justify-content: center;
   text-align: center;
   padding: 2rem;
-  animation: fadeIn 2s ease-in-out;
   position: relative;
 }
 
@@ -221,5 +220,6 @@ footer {
 .shop-button:hover {
   background-color: #cc2952;
 }
+
 
 
