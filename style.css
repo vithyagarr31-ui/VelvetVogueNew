@@ -60,7 +60,7 @@ nav a.active {
 
 /* Hero Section */
 .hero {
-  background: url('b1.JPG') no-repeat center center/cover;
+  background: url('b1.jpg') no-repeat center center/cover;
   height: 60vh;
   display: flex;
   align-items: center;
@@ -221,4 +221,5 @@ footer {
 .shop-button:hover {
   background-color: #cc2952;
 }
+
 
