@@ -135,3 +135,13 @@ body {
     .product-card a:hover {
       background-color: #d81b60;
     }
+/* Footer */
+footer {
+  background-color: #222;
+  color: #ccc;
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.9rem;
+  margin-top: 3rem;
+}
+
